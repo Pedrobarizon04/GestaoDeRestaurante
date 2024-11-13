@@ -34,3 +34,5 @@ public class Caixa extends Funcionario {
         cliente.setFezPagamento(true);
     }
 }
+
+// 
